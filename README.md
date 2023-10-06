@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahricciotti
-- 👀 I’m interested in Web Development, Front-End
+- 👀 I’m interested in Web-Development, Front-End
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarahricci123@gmail.com
