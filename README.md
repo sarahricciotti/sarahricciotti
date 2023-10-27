@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahricciotti
 - 👀 I’m interested in Web-Development, Front-End
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, WordPress and REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarahricci123@gmail.com
 
